@@ -2,5 +2,12 @@
 
 Hello all, I am a 17 year old Web designer, app developer, and graphics artist. Most of my projects are now in the Gameplex-Software Github org. We have over 46 repositories in Github and counting every day. We are a small organization with a big goal: making technology acessable to people of all skill sets and backgrounds. 
 
+## Interesting facts
+- I started programing at age 9
+- My  first programing language was Scratch's block code, then I quickly moved on to HTML, CSS, and JavaScript. From there my knowledge expanded.
+- Yes, Poland is my real last name
+- Gameplex Software runs out of servers in my home
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)
+
+
