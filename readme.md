@@ -6,8 +6,7 @@ Hello all, I am a 17 year old Web designer, app developer, and graphics artist. 
 - I started programing at age 9 with LEGO WeDo
 - My  first programing language was Scratch's block code, then I quickly moved on to HTML, CSS, and JavaScript. From there my knowledge expanded.
 - Yes, Poland is my real last name
-- Gameplex Software runs out of servers in my home
-
+- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)
 
 
