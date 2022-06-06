@@ -11,3 +11,8 @@ Hello all, I am a 17 year old Web designer, app developer, and graphics artist. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats)
 
 
+## Certificates
+
+![Certificate_1654524815083](https://user-images.githubusercontent.com/34868944/172195565-9d0bf413-3380-48ad-ba1c-0ee07b82c744.png)
+![Certificate_1654524821359](https://user-images.githubusercontent.com/34868944/172195567-1c59112a-bd6c-477c-ad00-e7e507a26e0c.png)
+![Certificate_1654524826079](https://user-images.githubusercontent.com/34868944/172195569-f5238aaf-ec3f-49a3-9055-39aa171926b2.png)
