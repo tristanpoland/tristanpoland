@@ -8,8 +8,7 @@ I am Tristan, I am a Web designer, app developer, and graphics artist based in N
 - Yes, Poland is my real last name
 - I love playing guitars
 
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=tristanpoland&count_private=true&theme=dark&show_icons=true&custom_title=My%20stats](https://github-stats-alpha.vercel.app/api?username={your-github-username}))](https://github-stats-alpha.vercel.app/api?username=tristanpoland)
-
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=tristanpoland&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/tuhinpal "Stats")
 
 ## Certificates
 
