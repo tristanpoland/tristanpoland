@@ -9,7 +9,3 @@ I am Tristan, I am a Web designer, app developer, and graphics artist based in N
 - I love playing guitars
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=tristanpoland&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/tuhinpal "Stats")
-
-## Certificates
-
-[My Certificates](https://github.com/tristanpoland/tristanpoland/blob/main/certificates.md)
