@@ -4,4 +4,6 @@ Hey all! welcome to my crazy little coding corner. I started my adventures here 
 
 More recently I took up Unreal Engine game development and am now working on a project called Unreal Kingdoms! It has been the experience of a lifetime and I can't wait to see where we take it next. Through this experience I have had the oprotunity to not only work in the engine, but also learn more about SQL Databases, ExpressJS, Svelte and many more technologies I had never found the time to try out before. You can check out our site for yourself at: [https://www.unrealkingdoms.com/](https://www.unrealkingdoms.com/) or look at our open source projects and forks at: [https://github.com/Unreal-Kingdoms](https://github.com/Unreal-Kingdoms)
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=tristanpoland&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/tuhinpal "Stats")
+# Personal Stats
+[![Tridents's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanpoland)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanpoland&langs_count=8)
