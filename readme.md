@@ -83,11 +83,12 @@ Thank you for being part of this journey of inspiration and impact. Together, we
 
 Now, let's go build something amazing that makes a difference! 💻✨🌍
 
+# Visitor count
 
 <p align="center"> 
-  Visitor Count<br>
 <img src='https://profile-counter.glitch.me/Trident_For_u/count.svg'></img>
 </p>
+
 # My GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&show_icons=true&theme=radical)
