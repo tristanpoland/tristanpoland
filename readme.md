@@ -93,4 +93,4 @@ Now, let's go build something amazing that makes a difference! 💻✨🌍
 ![Stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&show_icons=true&theme=radical)
 
 # My Code Stats
-![Stats Graph](https://codestats-readme.wegfan.cn/history-graph/Trident_For_U)
+![Stats Graph](https://codestats-readme.wegfan.cn/history-graph/Trident_For_U?max_languages=15&grid_color=e8e8e8&text_color=666666&zeroline_color=ababab&language_colors=["red","green","Yellow","blue"]&show_legend=true&bg_color=0d1117)
