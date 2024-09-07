@@ -82,3 +82,15 @@ I challenge you, fellow creator:
 Thank you for being part of this journey of inspiration and impact. Together, we're not just writing software; we're authoring a brighter future, touching lives with every commit, and leaving a legacy of positive change in the digital world.
 
 Now, let's go build something amazing that makes a difference! 💻✨🌍
+
+
+<p align="center"> 
+  Visitor Count<br>
+<img src='https://profile-counter.glitch.me/Trident_For_u/count.svg'></img>
+</p>
+# My GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tristanpoland&show_icons=true&theme=radical)
+
+# My Code Stats
+![Stats Graph](https://codestats-readme.wegfan.cn/history-graph/Trident_For_U)
