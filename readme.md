@@ -1,4 +1,4 @@
-# Hi, I'm [Tristan](https://tridentforu.com/) 👋
+# Hi, I'm [Triston](https://tridentforu.com/) 👋
 
 I started coding at 13, made my first public commit in 2020. Now building tools that make a difference in gaming and open source.
 
