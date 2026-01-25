@@ -15,7 +15,7 @@ Horizon is a game server software focused on seamless multiplayer experiences. K
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,js,html,md,py,jquery,stackoverflow,zen,github,tailscale,githubpages,githubcopilot,gitea,react,git,unreal,tailwind,figma,canva,api,svelte,vb,nextjs,ts,linux,redis,tauri,mysql,sqlite,mariadb,docker,blender,obs,vscode,kubernetes,rust,golang,github,wordpress,vscode,windows,android,ubuntu,macos)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,js,html,md,py,jquery,stackoverflow,zen,tailscale,githubpages,githubcopilot,gitea,react,git,unreal,tailwind,figma,canva,api,svelte,vb,nextjs,ts,linux,redis,tauri,mysql,sqlite,mariadb,docker,blender,obs,vscode,kubernetes,rust,golang,github,wordpress,vscode,windows,android,ubuntu,macos)
 
 ## Get in Touch
 
