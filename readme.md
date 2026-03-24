@@ -2,7 +2,19 @@
 
 I started coding at 13, made my first public commit in 2020. Now building tools that make a difference in gaming and open source.
 
-## Current Project: Horizon
+## Current Project: Pulsar Engine
+
+A next‑generation, experimental game engine focused on scalability, modularity, and modern systems design.
+- Uses Horizon (Last project) for multiplayer
+- Scalable world simulation and spatial partitioning
+- Modern, Rust-first tooling and workflows
+- Explicit and modular engine architecture
+- Long-term maintainability over short-term convenience
+- In-editor stability and UX as a first priority
+
+[Check out Pulsar Engine →](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
+
+## Last Project: Horizon
 
 Horizon is a game server software focused on seamless multiplayer experiences. Key features:
 - Synchronized game server architecture
