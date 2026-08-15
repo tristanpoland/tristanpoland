@@ -1,6 +1,6 @@
 # Hi, I'm [Tristan](https://tridentforu.com/) 👋
 
-<img width="1954" height="1228" alt="Frame 1" src="https://github.com/user-attachments/assets/91cbcf8c-299e-4718-b6a4-1a5d8a4de0e0" />
+<img width="1954" height="917" alt="Gemini_Generated_Image_a12e54a12e54a12e 1" src="https://github.com/user-attachments/assets/b5edbb13-97f1-40ed-bcdb-d4c21304d45f" />
 
 I started coding at 13, made my first public commit in 2020. Now building tools that make a difference in gaming and open source.
 
