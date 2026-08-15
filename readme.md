@@ -2,7 +2,7 @@
 
 <img width="1954" height="917" alt="Gemini_Generated_Image_a12e54a12e54a12e 1" src="https://github.com/user-attachments/assets/b5edbb13-97f1-40ed-bcdb-d4c21304d45f" />
 
-I started coding at 13, made my first public commit in 2020. Now building tools that make a difference in gaming and open source.
+I started coding at 13, made my first public commit in 2020. Now building tools that make a difference in tech, gaming, and open source.
 
 ## Current Project: Pulsar Engine
 
